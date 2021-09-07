@@ -59,7 +59,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 .DS_Store
-*.dll
-*.dll
-*.resS
+Icon?
 .vsconfig
